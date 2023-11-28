@@ -1,6 +1,6 @@
 ## Demo
 
-<https://afdulfauzan.github.io/undangan/?to=Teman+teman+semua>
+<https://afdulfauzan.github.io/ulemz/?to=Teman+teman+semua>
 
 ### Tech stack
 
