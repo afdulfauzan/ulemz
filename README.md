@@ -1,6 +1,6 @@
 ## Demo
 
-<https://afdulfauzan.ulem.my.id/?to=Teman+teman+semua>
+<https://ulem.afdulfauzan.my.id/?to=Teman+teman+semua>
 
 ### Tech stack
 
